@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Travel Diary",
+  "description": "A web application to document your travels. Create trips, add diary entries with photos, track expenses, and visualize your journey on a map. Built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
